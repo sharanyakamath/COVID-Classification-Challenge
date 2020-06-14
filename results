@@ -45,8 +45,8 @@ F1 score = 0.92
 
 Weighted average
 Accuracy 	= 0.92
-Precision 	= 0.92
-Recall 		= 0.92
-Sensitivity 	= 0.92
-Specificity 	= 0.93 
-F1-score	= 0.92
+Precision 	= 0.9204
+Recall 		= 0.9165
+Sensitivity 	= 0.9165
+Specificity 	= 0.9294
+F1-score	= 0.9184
